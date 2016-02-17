@@ -9,7 +9,7 @@ D: Idea y desarrollo
 
 N: Barrera Oro, Iván A. | *[HacKan](https://github.com/HacKanCuBa)*  
 T: [@hackancuba](https://twitter.com/HacKanCuBa)  
-W: [hackan.xyz](https://hackan.xyz)  
+W: [hackan.net](https://hackan.net)  
 P: [0xB1661C3C8B3D73D601494C25ECF0573B1C9B59E8](http://hkps.pool.sks-keyservers.net/pks/lookup?op=get&search=0xB1661C3C8B3D73D601494C25ECF0573B1C9B59E8)  
 D: Desarrollo  
     
